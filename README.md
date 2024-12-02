@@ -3,7 +3,7 @@
 This repository showcases my software development journey and projects. Currently, I am working on a React-based portfolio website to highlight my skills, experiences, and accomplishments. Stay tuned for updates as I continue to enhance and expand this portfolio!
 
 
-## Appliications
+## Applications
 
 ### Goal Ignite
 **Short Description**: Goal Ignite is a study application designed to simplify student life with powerful features, including:
