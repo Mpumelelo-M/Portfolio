@@ -84,11 +84,17 @@ This repository showcases my software development journey and projects. Currentl
    c. Validating each payment and approving it.
    
 3. The application protects against various attacks such as:
+   
    a. SQL Injcetion
+
    b. Man in the Middle
+
    c. DDoS attack
+
    d. Clickjacking
+
    c. Cross Sit Scripting
+   
 **Tech Stack**: Mongo DB, Express.js, React, Node.js (MERN Stack)
 
 **Demo/Preview**: Video in repository.
