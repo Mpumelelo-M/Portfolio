@@ -51,3 +51,46 @@ This repository showcases my software development journey and projects. Currentl
 **Demo/Preview**: https://drive.google.com/file/d/1HH6Efy-lOylUFL-WhBmuadsPIWOwmPNt/view?usp=drive_link 
 
 **GitHub Link**: https://github.com/ST10092275/XBCAD7319.git
+
+### Municipality Service
+**Short Description**: The municipality application assists community members with issues surrounding them and always stay up-to-date with features including:
+1. Reporting issues.
+2. View local announcements and events.
+3. Change service request status.
+4. Community Feedback and voting.
+
+**Tech Stack**: C#
+
+**Demo/Preview**: Video in repository.
+
+**GitHub Link**: https://github.com/IIEWFL/prog7312-poe-ST10092275.git
+
+### International Banking App
+**Short Description**: The banking system allows clients to create secure payments internationally using SWIFT code, its features include:
+1. Client
+   
+   a. Secure login and Register.
+   
+   b. Viewing payment dashboard.
+
+   c. Create payments.
+   
+2. Admin
+
+   a. Secure login.
+
+   b. View payments from clients to validate.
+
+   c. Validating each payment and approving it.
+   
+3. The application protects against various attacks such as:
+   a. SQL Injcetion
+   b. Man in the Middle
+   c. DDoS attack
+   d. Clickjacking
+   c. Cross Sit Scripting
+**Tech Stack**: Mongo DB, Express.js, React, Node.js (MERN Stack)
+
+**Demo/Preview**: Video in repository.
+
+**GitHub Link**: https://github.com/IIEWFL/prog7312-poe-ST10092275.git
