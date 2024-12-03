@@ -1,10 +1,23 @@
 # Portfolio 
 **Welcome to My Portfolio Repository!**
 
-This repository showcases my software development journey and projects. Currently, I am working on a React-based portfolio website to highlight my skills, experiences, and accomplishments. Stay tuned for updates as I continue to enhance and expand this portfolio!
+This repository showcases my software and UI/UX development journey and projects. Currently, I am working on a React-based portfolio website to highlight my skills, experiences, and accomplishments. Stay tuned for updates as I continue to enhance and expand this portfolio!
 
+## UI/UX Design
 
-## Applications
+### Goal Ignite 
+**Short Description**: User Interface design for Goal Ignite to ensure that the application is user-friendly.
+**Link**: https://www.figma.com/design/4GXTgADICeSyr8wqg1uLDa/Goal-Ignite?node-id=0-1&t=afh1dX14DBefL3A6-1
+
+### ConsultEase
+**Short Description**: User Interface design for ConsultyEase to ensure that the application is user-friendly.
+**Link**: https://www.figma.com/design/LBxd5sLpcGYzQFr7DizLtR/ConsultEase?node-id=0-1&node-type=canvas&t=I1wcNtvUscX4SlaP-0
+
+### Epoch Architect
+**Short Description**: User Interface design for ConsultyEase to ensure that the application is user-friendly.
+**Link**: https://www.figma.com/design/bNiqo5UaqKyvfXgTLHRiWc/Login-and-Register?node-id=0-1&t=qHBB6fciUmUa5BW2-1
+   
+## Software Applications
 
 ### Goal Ignite
 **Short Description**: Goal Ignite is a study application designed to simplify student life with powerful features, including:
