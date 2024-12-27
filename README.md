@@ -1,7 +1,7 @@
 # Mpumelelo Madisha
 **Welcome to My Portfolio Repository!**
 
-This repository showcases my software and UI/UX development journey and projects. Currently, I am working on a React-based portfolio website to highlight my skills, experiences, and accomplishments. Stay tuned for updates as I continue to enhance and expand this portfolio!
+This repository showcases my software development, UI/UX development and data analytics journey and projects. Currently, I am working on a React-based portfolio website to highlight my skills, experiences, and accomplishments. Stay tuned for updates as I continue to enhance and expand this portfolio!
 
 ## UI/UX Design
 
@@ -19,7 +19,10 @@ This repository showcases my software and UI/UX development journey and projects
 **Short Description**: User Interface design for ConsultyEase to ensure that the application is user-friendly.
 
 **Link**: https://www.figma.com/design/bNiqo5UaqKyvfXgTLHRiWc/Login-and-Register?node-id=0-1&t=qHBB6fciUmUa5BW2-1
-   
+
+## Data Analytics
+**Link**: https://github.com/Mpumelelo-M/Data-Analyst.git
+
 ## Software Applications
 
 ### Goal Ignite
