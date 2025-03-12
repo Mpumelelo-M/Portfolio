@@ -84,6 +84,15 @@ This repository showcases my software development, UI/UX development and data an
 
 **GitHub Link**: https://github.com/IIEWFL/prog7312-poe-ST10092275.git
 
+### Weather App
+**Short Description**: The weather app is a website that fetches weather data using the OpenWeather API.
+
+1. The user will enter their city then the application will fetch weather for the city they searched the weather for.
+   
+**Tech Stack**: React
+
+**GitHub Repository**: https://github.com/Mpumelelo-M/WeatherApp.git.
+
 ### International Banking App
 **Short Description**: The banking system allows clients to create secure payments internationally using SWIFT code, its features include:
 1. Client
